@@ -1,0 +1,4 @@
+#You can run these commands to compile serial.cpp. We have already compiled it for you.
+
+module load gcc/10.2
+g++ serial.cpp -o serial
