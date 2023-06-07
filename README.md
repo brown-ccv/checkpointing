@@ -4,8 +4,7 @@ Interactive tutorial for CCV Research Computing Bootcamp.
 
 Recommended Order:
 1. User-level checkpointing
-2. Application level checkpointing
-3. DMTCP
+2. DMTCP
 
 # References:
 
