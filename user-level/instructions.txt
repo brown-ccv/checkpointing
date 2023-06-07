@@ -1,0 +1,10 @@
+Request an interactive job
+
+interact -n 1 -m 4g -q debug -t 00:10:00
+
+Load the anaconda module
+module load anaconda/2022.05
+
+python3 checkpoint.py
+
+Press "Ctrl+C" to interrupt
